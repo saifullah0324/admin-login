@@ -121,6 +121,7 @@
 								<p>Shopping</p>
 							</a>
 						</li>
+						<p>check git merge {dropdown}</p>
 						<!-- <li class="nav-item">
 							<a href="orders.html" class="nav-link">
 								<i class="nav-icon fas fa-shopping-bag"></i>
