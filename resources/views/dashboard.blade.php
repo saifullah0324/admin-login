@@ -122,8 +122,7 @@
 							</a>
 						</li>
 
-						<p>check git merge {button}</p>
-						<p>check git merge {dropdown}</p>
+						
 
 						<!-- <li class="nav-item">
 							<a href="orders.html" class="nav-link">
