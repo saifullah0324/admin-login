@@ -121,6 +121,12 @@
 								<p>Shipping</p>
 							</a>
 						</li>
+<<<<<<< HEAD
+=======
+
+						
+
+>>>>>>> 09d0f0dd6a33fe048ac48d92eb905251afe5f3db
 						<!-- <li class="nav-item">
 							<a href="orders.html" class="nav-link">
 								<i class="nav-icon fas fa-shopping-bag"></i>
